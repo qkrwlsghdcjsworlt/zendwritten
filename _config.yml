@@ -3,7 +3,7 @@ title: zendwritten
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   손 필 기
-baseurl: /zendwritten/ # the subpath of your site, e.g. /blog/
+baseurl: /zendwritten # the subpath of your site, e.g. /blog/
 url: https://qkrwlsghdcjsworlt.github.io/zendwritten # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
