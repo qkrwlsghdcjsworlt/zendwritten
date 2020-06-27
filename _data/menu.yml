@@ -1,14 +1,14 @@
 - title: "About"
-  href: "/about/"
+  href: "/zendwritten/about/"
 
 - title: "Blog"
-  href: "/blog/"
+  href: "/zendwritten/blog/"
 
 - title: "CV"
-  href: "/cv/"
+  href: "/zendwritten/cv/"
 
 - title: "Miscellany"
-  href: "/miscellany/"
+  href: "/zendwritten/miscellany/"
   subcategories:
     - subtitle: "Item 1"
       subhref: "/miscellany/item-1/"
