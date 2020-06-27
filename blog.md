@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /zendwritten/blog/
 ---
 
 Tell us about your blog. Hopefully it's cool.
