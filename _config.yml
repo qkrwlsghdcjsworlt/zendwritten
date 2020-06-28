@@ -1,4 +1,4 @@
-title: Hand written note
+title: JH's notes'
 url: "https://qkrwlsghdcjsworlt.github.io/zendwritten/"
 baseurl: "/zendwritten"
 
@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About"
    link: "/zendwritten"
- - name: "Resume"
+ - name: "Templete"
    link: "resume.pdf"
  - name: "Contact"
    link: "/zendwritten/contact"
