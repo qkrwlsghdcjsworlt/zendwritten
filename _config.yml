@@ -1,6 +1,6 @@
 title: Hand written note
 url: "https://qkrwlsghdcjsworlt.github.io/zendwritten/"
-baseurl: "/"
+baseurl: "/zendwritten"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
