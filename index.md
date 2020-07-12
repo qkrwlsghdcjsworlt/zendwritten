@@ -13,3 +13,6 @@ layout: default
 [nickelate arXiv 2020](/pdf/nickelate-Ba2CuO3-arXiv-2020.pdf) nickelate idea from Ba2CuO3
 
 [Binghai Mn3Sn band structure](/pdf/Binghai-NPJ-2017.pdf) Mn3Sn
+
+
+[cuprate QE](/pdf/yamamoto2007.pdf)
