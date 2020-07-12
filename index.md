@@ -15,4 +15,4 @@ layout: default
 [Binghai Mn3Sn band structure](/pdf/Binghai-NPJ-2017.pdf) Mn3Sn
 
 
-[cuprate QE](/pdf/yamamoto2007.pdf)
+[cuprate QE](/pdf/yamamoto2007.pdf)  band structure of cuprate
